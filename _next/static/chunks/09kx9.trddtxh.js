@@ -127,7 +127,7 @@
                       children: "BUY $ALIENTRUMP",
                     }),
                     (0, t.jsx)("a", {
-                      href: "https://x.com/alientrumpX",
+                      href: "https://x.com/Alientrump_X",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
